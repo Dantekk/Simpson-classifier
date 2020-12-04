@@ -1,6 +1,6 @@
 # Simpson-classifier
 
-Simpson character classifier with CNN model using Keras
+Simpson character classifier with CNN model using Keras.
 
 **Dataset**
 
